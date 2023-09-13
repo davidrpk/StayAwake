@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "StayAwake", "StayAwake.pyproj", "{83E415D4-FF1C-4C11-8BCF-14962EDAC17D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E415D4-FF1C-4C11-8BCF-14962EDAC17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E415D4-FF1C-4C11-8BCF-14962EDAC17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2448E746-C4FA-4740-99B3-F95ADA6F98C4}
+	EndGlobalSection
+EndGlobal
